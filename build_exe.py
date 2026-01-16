@@ -53,8 +53,6 @@ def main():
         print("Build successful!")
         print("=" * 80)
         print()
-        print(f"Output: {dist_dir / 'SS14Tiled.exe'}")
-        print()
         print()
         return 0
     except subprocess.CalledProcessError as e:
