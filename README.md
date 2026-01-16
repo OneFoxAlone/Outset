@@ -1,8 +1,10 @@
-# Space Station 14 - Tiled
+<p align="center">
+  <img width="600" height="136" alt="outsetlogo" src="https://github.com/user-attachments/assets/38853c61-9245-426d-b66c-c8b1184f9bea" />
+</p>
 
-![Screenshot showing what is currently possible.](./Poster.png)
-
-Tooling to use [Tiled](https://www.mapeditor.org/) as map editor for [SS14](https://github.com/space-wizards/space-station-14).
+<p align="center">
+A Tiled converter for Space Station 14
+</p>
 
 ## Prerequisites
 
@@ -77,3 +79,4 @@ python -m ss14_tiled.gui_main
 - [ ] Export (Tiled -> SS14)
 - [x] Easy-To-Use GUI
 - [x] Performace Improvements & Fixes
+</p>
