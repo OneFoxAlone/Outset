@@ -1,9 +1,9 @@
 # SS14 Tiled - Quick Start
 
-## For Users: Running the GUI Application
+## Running the GUI 
 
 ### Download Pre-built EXE
-1. Download `SS14Tiled.exe` from the [releases page](https://github.com/OneFoxAlone/ss14_tiled/releases)
+1. Download `Outset.exe` from the [releases page](https://github.com/OneFoxAlone/ss14_tiled/releases)
 2. Double-click to run
 3. On first run, it automatically installs dependencies (internet required)
 4. Select your SS14 folder using the "Browse..." button
@@ -14,7 +14,7 @@
 1. Clone the repository: `git clone https://github.com/OneFoxAlone/ss14_tiled`
 2. `cd ss14_tiled`
 3. Run: `python build_exe.py`
-4. The EXE will be in `dist/SS14Tiled.exe`
+4. The EXE will be in `dist/Outset.exe`
 
 ### Run from Source (Requires Python)
 1. Clone the repository
@@ -79,4 +79,4 @@ python -m ss14_tiled C:\path\to\ss14
 python build_exe.py
 ```
 
-The built EXE is in `dist/SS14Tiled.exe`
+The built EXE is in `dist/Outset.exe`

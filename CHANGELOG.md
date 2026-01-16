@@ -106,4 +106,4 @@
 - GUI Implementation: PyQt6 application framework
 - Dependency Manager: Custom solution for EXE distribution
 - Build System: PyInstaller integration
-- Original Code: 
+- Original Code: Ignaz Kraft (ignaz.k@live.de)
