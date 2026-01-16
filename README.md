@@ -23,7 +23,7 @@ Only necessary if you want to build the tile sets yourself.
 
 ### Windows Standalone EXE
 
-Download the latest release from the [releases page](https://github.com/OneFoxAlone/ss14_tiled/releases) and run `Outset.exe`. On first run, it will automatically install required dependencies.
+Download the latest release from the [releases page](https://github.com/OneFoxAlone/Outset/releases) and run `Outset.exe`. On first run, it will automatically install required dependencies.
 
 ### CLI (Requires Python)
 
@@ -37,7 +37,7 @@ Download the latest release from the [releases page](https://github.com/OneFoxAl
 
 ```sh
 # Setup
-git clone https://github.com/OneFoxAlone/ss14_tiled
+git clone https://github.com/OneFoxAlone/Outset
 cd ss14_tiled
 python3 -m venv .venv
 source .venv/bin/activate
@@ -52,7 +52,7 @@ python3 -m ss14_tiled /path/to/space-station-14/
 
 ```powershell
 # Setup
-git clone https://github.com/OneFoxAlone/ss14_tiled
+git clone https://github.com/OneFoxAlone/Outset
 cd ss14_tiled
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
