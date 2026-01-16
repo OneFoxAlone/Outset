@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-A Tiled converter for Space Station 14
+  A Tiled converter for Space Station 14
+</p>
+
+<p align="center">
+  [Quickstart Guide](QUICKSTART.md)
 </p>
 
 ## Prerequisites
